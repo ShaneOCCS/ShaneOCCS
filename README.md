@@ -1,0 +1,5 @@
+
+    👋 Hello there!, I'm Shane O'Connell
+    👀 I’m interested in computer science/engineering, full stack development & computer hardware.
+    🌱 I’m currently learning React, different JavaScript framworks, Tailwind, C programming and object oriented programming in Java
+    💞️ I’m looking to collaborate on any interesting projects!
