@@ -26,10 +26,6 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS\&theme=tokyonight)
 
----
-
-## 🧠 Most Used Languages
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS\&layout=compact\&theme=tokyonight)
 
 ---
