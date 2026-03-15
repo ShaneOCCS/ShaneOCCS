@@ -1,4 +1,3 @@
-# 👋 Shane O'Connell
 
 ## 👨‍💻 About Me
 
