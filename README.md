@@ -15,7 +15,6 @@
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
 
-
 ---
 
 ## 🗄️ DBMS
@@ -28,27 +27,25 @@
 
 ## 📈 GitHub Stats
 
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Shane OCCS\&show_icons=true\&theme=tokyonight)
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS\&show_icons=true\&theme=tokyonight)
 
 ---
 
 ## 🔥 GitHub Streak
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS\&theme=tokyonight)
 
 ---
 
 ## 🧠 Most Used Languages
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact\&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS\&layout=compact\&theme=tokyonight)
 
 ---
 
 ## 🚀 Current Focus
 
-* Improving **Python and Understanding of embedded systems**
+* Improving **Python and understanding of embedded systems**
 * Building projects to strengthen **software engineering skills**
 
 ---
-
-⭐ Feel free to check out my repositories and projects!
