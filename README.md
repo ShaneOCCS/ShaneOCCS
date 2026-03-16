@@ -4,7 +4,7 @@
 * 📍 Ottawa, Canada
 * 💻 Interested in Backend Development, Artificial Intelligence, Robotics and Software Engineering
 
-## 🚀 Current Focus
+### 🚀 Current Focus
 
 * Improving **Python and understanding of embedded systems**
 * Building projects to strengthen **software engineering skills**
