@@ -2,7 +2,7 @@
 
 * 🎓 Computer Engineering Technology Student
 * 📍 Ottawa, Canada
-* 💻 Interested in Backend Development, Artificial Intelligence, Robotics and Software Engineering
+* 💻 Interested in Full Stack, Artificial Intelligence, Robotics and Software Engineering
 
 ### 🚀 Current Focus
 
