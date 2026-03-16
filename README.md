@@ -4,7 +4,6 @@
 * 🎓 Computer Engineering Technology Student
 * 📍 Ottawa, Canada
 * 💻 Interested in Backend Development, Artificial Intelligence, Robotics and Software Engineering
-* 🚀 Always learning new technologies and improving my programming skills
 
 ---
 
