@@ -1,4 +1,4 @@
-## 👨💻 About Me
+### 👨💻 About Me
 
 * 🎓 Computer Engineering Technology Student @ Algonquin College 📍 Ottawa, Canada
 * 💻 Interested in Full Stack, Artificial Intelligence, Robotics and Software Engineering
