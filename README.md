@@ -61,5 +61,3 @@ Here are my GitHub stats for anyone interested!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight&count_private=true&card_width=200)
 
 </div>
-
-</div>
