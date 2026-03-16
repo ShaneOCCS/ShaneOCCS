@@ -44,6 +44,7 @@ Here is a quick glance at some of the tools and languages I have knowledge in an
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Gymnasium](https://img.shields.io/badge/Gymnasium-0081A5?style=for-the-badge&logo=openai&logoColor=white)
 ![MuJoCo](https://img.shields.io/badge/MuJoCo-00A86B?style=for-the-badge&logo=openai&logoColor=white)
+![Winsock](https://img.shields.io/badge/Winsock-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 
 </div>
 
