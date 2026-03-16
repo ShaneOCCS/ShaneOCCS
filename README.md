@@ -13,7 +13,7 @@
 
 ### 🛠️ Languages & Tools
 
-<div align="center">
+<div align="left">
 
 Here is a quick glance at some of the tools and languages I have knowledge in and enjoy using!
 
