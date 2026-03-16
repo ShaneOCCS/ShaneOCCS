@@ -19,9 +19,10 @@
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
-## 📈 GitHub Stats
 
 <div align="center">
+  
+## 📈 GitHub Stats
 
 For those of you who are also nerds for stats, here is a glance at my GitHub stats!
 
