@@ -17,11 +17,10 @@
 
 ## 📈 GitHub Stats
 
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true)
+![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS\&layout=compact\&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS\&theme=tokyonight)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS\&layout=compact\&theme=tokyonight)
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS\&theme=tokyonight) 
 
 ---
 
