@@ -5,8 +5,8 @@
 
 ### 🚀 Current Focus
 
-* Improving **Python and understanding of embedded systems**
-* Building projects to strengthen **software engineering skills**
+* Improving **Python and understanding of robotics and AI**
+* Building projects to strengthen **software engineering skills** 
 
 ---
 
