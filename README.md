@@ -16,10 +16,11 @@
 
 ## 📈 GitHub Stats
 
+For those of you who are also nerds for stats, here is a glance at my GitHub stats!
+
 | | |
 |---|---|
-| ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&width=400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=compact&theme=tokyonight&width=400) |
-
+| ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight&count_private=true) | ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true) |
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS&theme=tokyonight)
 
 ---
