@@ -4,6 +4,12 @@
 * 📍 Ottawa, Canada
 * 💻 Interested in Backend Development, Artificial Intelligence, Robotics and Software Engineering
 
+## 🚀 Current Focus
+
+* Improving **Python and understanding of embedded systems**
+* Building projects to strengthen **software engineering skills**
+
+
 ---
 
 ## 🌐 Systems
@@ -25,7 +31,3 @@ For those of you who are also nerds for stats, here is a glance at my GitHub sta
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS&theme=tokyonight)
 
 </div>
-## 🚀 Current Focus
-
-* Improving **Python and understanding of embedded systems**
-* Building projects to strengthen **software engineering skills**
