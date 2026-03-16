@@ -1,5 +1,4 @@
-
-## 👨‍💻 About Me
+## 👨💻 About Me
 
 * 🎓 Computer Engineering Technology Student
 * 📍 Ottawa, Canada
@@ -9,18 +8,19 @@
 
 ## 🌐 Systems
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge\&logo=openjdk)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge\&logo=cplusplus)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus)
 
 ---
 
 ## 📈 GitHub Stats
 
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS\&layout=compact\&theme=tokyonight)
+| | |
+|---|---|
+| ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&width=400) | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=compact&theme=tokyonight&width=400) |
 
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS\&theme=tokyonight) 
+![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS&theme=tokyonight)
 
 ---
 
@@ -28,5 +28,3 @@
 
 * Improving **Python and understanding of embedded systems**
 * Building projects to strengthen **software engineering skills**
-
----
