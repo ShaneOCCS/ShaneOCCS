@@ -24,7 +24,7 @@
   
 ### 📈 GitHub Stats
 
-For those of you who are also nerds for stats, here is a glance at my GitHub stats!
+Here are my GitHub stats for anyone interested!
 
 ![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&card_width=400)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=ShaneOCCS&theme=tokyonight)
