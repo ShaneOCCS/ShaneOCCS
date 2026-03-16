@@ -22,8 +22,7 @@
 
 <div align="center">
   
-## 📈 GitHub Stats
-
+### 📈 GitHub Stats
 
 For those of you who are also nerds for stats, here is a glance at my GitHub stats!
 
