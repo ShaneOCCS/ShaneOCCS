@@ -1,6 +1,6 @@
 ### 👨💻 About Me
 
-* 🎓 Computer Engineering Technology Student @ Algonquin College 📍 Ottawa, Canada
+* 🎓 [Computer Engineering Technology Student](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/#overview) @ Algonquin College 📍 Ottawa, Canada
 * 💻 Interested in Full Stack, Artificial Intelligence, Robotics and Software Engineering
 
 ### 🚀 Current Focus
