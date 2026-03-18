@@ -8,7 +8,7 @@
 ### 🚀 Current Focus
 
 * Improving **Python and understanding of Robotics and AI**
-* Learning React Native and Experimenting with different stacks**
+* Learning **React Native and Experimenting with different stacks**
 * Building projects to strengthen **software engineering skills** 
 
 ---
