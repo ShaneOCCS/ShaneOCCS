@@ -1,3 +1,5 @@
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a4a1a,100:41CD52&height=200&section=header&text=Shane%20O'Connell&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=Computer%20Engineering%20%7C%20Algonquin%20College&descAlignY=55&descSize=20&fontAlignY=35)
+
 ### 👨💻 About Me
 
 * 🎓 [Computer Engineering Technology Student](https://www.algonquincollege.com/sat/program/computer-engineering-technology-computing-science/#overview) @ Algonquin College 📍 Ottawa, Canada
@@ -62,3 +64,5 @@ Here are my GitHub stats for anyone interested!
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight&count_private=true)
 
 </div>
+
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,50:1a4a1a,100:000000&height=100&section=footer)>
