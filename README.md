@@ -71,7 +71,7 @@ Here are my GitHub stats for anyone interested!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-oconnell-/)
 <br>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41CD52&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer+Soon;AI+%26+Robotics+Enthusiast;Software+Engineer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41CD52&center=true&vCenter=true&width=435&lines=Computer+Engineering+Student;Full+Stack+Developer+One+Day;AI+%26+Robotics+Is+Awesome;Software+Engineer+In+The+Future)](https://git.io/typing-svg)
 
 </div>
 
