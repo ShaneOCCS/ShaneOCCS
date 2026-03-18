@@ -63,6 +63,15 @@ Here are my GitHub stats for anyone interested!
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight&count_private=true)
 
+---
+
+<div align="center">
+
+### 🤝 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shane-oconnell-/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/ShaneOCCS)
+
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,50:1a4a1a,100:000000&height=100&section=footer)>
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:41CD52,50:1a4a1a,100:000000&height=100&section=footer)
