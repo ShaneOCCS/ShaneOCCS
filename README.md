@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a4a1a,100:41CD52&height=200&section=header&text=Shane%20O'Connell&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=I%20Love%20Learning%20%7C%20Computer%20Engineering-Student&descAlignY=55&descSize=20&fontAlignY=35)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:1a4a1a,100:41CD52&height=200&section=header&text=Shane%20O'Connell&fontSize=50&fontColor=FFFFFF&animation=fadeIn&desc=%20%7C%20Computer%20Engineering-Student&descAlignY=55&descSize=20&fontAlignY=35)
 
 ### 👨💻 About Me
 
