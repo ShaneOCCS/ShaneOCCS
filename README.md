@@ -33,7 +33,7 @@ Here is a quick glance at some of the tools and languages I have knowledge in an
 **Frameworks & GUI**
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tail_Wind](https://img.shields.io/badge/Tail_Wind-20232A?style=for-the-badge&logo=tailwind&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwindcss-0F172A?style=for-the-badge&logo=tailwindcss&logoColor=38BDF8)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![JavaFX](https://img.shields.io/badge/JavaFX-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Java Swing](https://img.shields.io/badge/Java%20Swing-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
