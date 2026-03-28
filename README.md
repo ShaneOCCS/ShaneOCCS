@@ -64,7 +64,7 @@ Here is a quick glance at some of the tools and languages I have knowledge in an
 
 Here are my GitHub stats for anyone interested!
 
-![Shane's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&card_width=320)
+![Shane's GitHub stats](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&card_width=320)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShaneOCCS&theme=tokyonight&card_width=200)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight&count_private=true)
