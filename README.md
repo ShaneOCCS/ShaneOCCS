@@ -70,10 +70,10 @@ Here is a quick glance at some of the tools and languages I have knowledge in an
 
 Here are my GitHub stats for anyone interested!
 
-![Shane's GitHub stats](https://YOUR-INSTANCE.vercel.app/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&count_private=true&card_width=320)
+![Shane's GitHub stats](https://readmestats.999857.xyz/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&card_width=320)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShaneOCCS&theme=tokyonight&card_width=200)
-![Top Langs](https://YOUR-INSTANCE.vercel.app/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight)
 
+![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=ShaneOCCS&layout=donut&theme=tokyonight)
 </div>
 
 ---
