@@ -9,7 +9,6 @@
 
 * Improving **Python and understanding of Robotics and AI**
 * Learning **C# and the .NET ecosystem, including ASP.NET Core MVC and Blazor**
-* Learning **React Native and Experimenting with different stacks**
 * Building projects to strengthen **software engineering skills**
 
 ---
