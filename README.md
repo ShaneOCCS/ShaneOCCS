@@ -71,6 +71,8 @@ Here are my GitHub stats for anyone interested!
 
 ![Shane's GitHub stats](https://readmestats.999857.xyz/api?username=ShaneOCCS&show_icons=true&theme=tokyonight&card_width=320)
 ![GitHub Streak](https://streak-stats.demolab.com?user=ShaneOCCS&theme=tokyonight&card_width=200)
+![Most Used Languages](https://readmestats.999857.xyz/api/top-langs/?username=ShaneOCCS&layout=donut&langs_count=8&theme=tokyonight&card_width=320)
+
 </div>
 
 ---
